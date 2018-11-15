@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03-springboot-config/03-springboot-config.iml" filepath="$PROJECT_DIR$/03-springboot-config/03-springboot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-springboot/04-springboot.iml" filepath="$PROJECT_DIR$/04-springboot/04-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-springboot-initparam/05-springboot-initparam.iml" filepath="$PROJECT_DIR$/05-springboot-initparam/05-springboot-initparam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-springboot-restful/06-springboot-restful.iml" filepath="$PROJECT_DIR$/06-springboot-restful/06-springboot-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springboot-test1/08-springboot-test1.iml" filepath="$PROJECT_DIR$/08-springboot-test1/08-springboot-test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-springboot-redis/09-springboot-redis.iml" filepath="$PROJECT_DIR$/09-springboot-redis/09-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-seckill-interface/24-seckill-interface.iml" filepath="$PROJECT_DIR$/24-seckill-interface/24-seckill-interface.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/24-seckill-service/24-seckill-service.iml" filepath="$USER_HOME$/Downloads/24-seckill-service/24-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-seckill-web/24-seckill-web.iml" filepath="$PROJECT_DIR$/24-seckill-web/24-seckill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-all-consumer/springboot-all-consumer.iml" filepath="$PROJECT_DIR$/springboot-all-consumer/springboot-all-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-all-interface/springboot-all-interface.iml" filepath="$PROJECT_DIR$/springboot-all-interface/springboot-all-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-all-provider/springboot-all-provider.iml" filepath="$PROJECT_DIR$/springboot-all-provider/springboot-all-provider.iml" />
+    </modules>
+  </component>
+</project>

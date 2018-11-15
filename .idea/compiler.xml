@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03-springboot-config" />
+        <module name="04-springboot" />
+        <module name="05-springboot-initparam" />
+        <module name="06-springboot-restful" />
+        <module name="08-springboot-test1" />
+        <module name="09-springboot-redis" />
+        <module name="24-seckill-interface" />
+        <module name="24-seckill-service" />
+        <module name="24-seckill-web" />
+        <module name="springboot-all-consumer" />
+        <module name="springboot-all-interface" />
+        <module name="springboot-all-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-springboot" target="1.8" />
+      <module name="03-springboot-config" target="1.8" />
+      <module name="04-springboot" target="1.8" />
+      <module name="05-springboot-initparam" target="1.8" />
+      <module name="06-springboot-restful" target="1.8" />
+      <module name="08-springboot-test1" target="1.8" />
+      <module name="09-springboot-redis" target="1.8" />
+      <module name="24-seckill-interface" target="1.5" />
+      <module name="24-seckill-service" target="1.8" />
+      <module name="24-seckill-web" target="1.8" />
+      <module name="24-test" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="springboot-all-consumer" target="1.8" />
+      <module name="springboot-all-interface" target="1.5" />
+      <module name="springboot-all-provider" target="1.8" />
+      <module name="springboot-homework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

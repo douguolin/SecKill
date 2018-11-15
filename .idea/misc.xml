@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.RestController" />
+    </list>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-all-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-all-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-all-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/03-springboot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/04-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/05-springboot-initparam/pom.xml" />
+        <option value="$PROJECT_DIR$/06-springboot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springboot-test1/pom.xml" />
+        <option value="$PROJECT_DIR$/09-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/24-seckill-interface/pom.xml" />
+        <option value="$USER_HOME$/Downloads/24-seckill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/24-seckill-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
